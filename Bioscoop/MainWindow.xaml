@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Label Content="Geef aantal tickets per soort in:" HorizontalAlignment="Left" Margin="206,114,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="206,179,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="206,230,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="206,273,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="206,319,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="291,183,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="291,234,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="291,277,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="291,323,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="521,233,0,0" VerticalAlignment="Top" Height="35" Width="80"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="521,281,0,0" VerticalAlignment="Top" Height="35" Width="80"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="521,332,0,0" VerticalAlignment="Top" Height="35" Width="80"/>
 
     </Grid>
 </Window>
